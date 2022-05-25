@@ -48,11 +48,17 @@ Language Processing <a href="https://colips.org/conferences/ialp2019/ialp2019.co
 #### Coreference Resolution
 - <b>Artari, et al. (2021)</b> <i>A Multi-Pass Sieve Coreference Resolution for Indonesian</i>. RANLP <a href="https://aclanthology.org/2021.ranlp-1.10.pdf">[Paper]</a> <a href="https://github.com/valentinakania/indocoref">[Dataset]</a>
 
+### Chatbot
+- <b>Lin, et al. (2021)</b> <i>XPersona: Evaluating Multilingual Personalized Chatbot</i>. NLP4ConvAI <a href="https://aclanthology.org/2021.nlp4convai-1.10.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlg">[Benchmark]</a> <a href="https://github.com/HLTCHKUST/Xpersona">[Dataset]</a>
+
 #### Question Answering
 - <b>Clark, et al. (2020)</b> <i>TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages</i>. TACL <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00317/96451">[Paper]</a> <a href="https://github.com/google-research-datasets/tydiqa">[Dataset]</a>
 - <b>Purwarianti, et al. (2007)</b> <i>A Machine Learning Approach for Indonesian Question Answering System</i>. RANLP <a href="https://www.researchgate.net/profile/Ayu-Purwarianti/publication/221173808_A_machine_learning_approach_for_indonesian_question_answering_system/links/547404bd0cf245eb436dbcdc/A-machine-learning-approach-for-indonesian-question-answering-system.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlu">[Benchmark]</a>
 
 #### Summarization
+- <b>Kemal Kurniawan and Samuel Louvan (2018)</b> <i>A New Benchmark Dataset for Indonesian Text Summarization</i>. International Conference
+on Asian Language Processing <a href="https://arxiv.org/pdf/1810.05334.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlg">[Benchmark]</a> <a href="https://github.com/kata-ai/indosum">[Original Dataset]</a>
+- <b>Koto, et al. (2020)</b> <i>A Large-scale Indonesian Dataset for Text Summarization</i>. AACL <a href="https://aclanthology.org/2020.aacl-main.60.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlg">[Benchmark]</a> <a href="https://github.com/fajri91/sum_liputan6">[Original Dataset]</a>
 
 #### Keyphrases Extraction 
 
