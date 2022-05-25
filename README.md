@@ -1,4 +1,4 @@
-# Indonesian NLP Research Resources
+# Indonesian NLP Resources
 This is the list of tutorials, workshops, talks, books, papers, and resources on computational linguistic approaches to research in Indonesian languages. 
 The list will be updated over time. You are welcome to send a pull request to update the list and be one of the contributors! 🚀
 
