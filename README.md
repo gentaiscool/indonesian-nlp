@@ -1,5 +1,5 @@
 # Indonesian Research Resources
-This is the list of tutorials, workshops, papers, and resources on computational linguistic approaches to research in Indonesian languages. 
+This is the list of tutorials, workshops, books, papers, and resources on computational linguistic approaches to research in Indonesian languages. 
 The list will be updated over time. You are welcome to send a pull request to update the list and be one of the contributors! 🚀
 
 📌 If you are working on any work related to Indonesian or any local Indonesian languages, don't hesitate to contact me or send a pull request! 
