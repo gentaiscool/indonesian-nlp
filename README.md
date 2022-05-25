@@ -6,6 +6,12 @@ The list will be updated over time. You are welcome to send a pull request to up
 
 ## 📑 Research Papers
 
+### Position / Survey
+- <b>Aji, et al. (2022)</b> <i>Pengenalan Konsep Pembelajaran Mesin dan Deep Learning</i>. ACL <a href="https://aclanthology.org/2022.acl-long.500.pdf">[Paper]</a>
+
+### Book
+- <b>Jan Wira Gotama Putra (2019)</b> <i>One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia</i>. <a href="https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf">[Book]</a>
+
 ### Datasets and Pretrained Models
 #### Public Benchmark
 - <b>Cahyawijaya, et al. (2021)</b> <i>IndoNLG: Benchmark and Resources for Evaluating Indonesian Natural Language Generation</i>. EMNLP <a href="https://aclanthology.org/2021.emnlp-main.699.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlg">[Benchmark]</a> <a href="https://huggingface.co/indobenchmark">[Huggingface Models]</a>
@@ -47,7 +53,7 @@ Language Processing <a href="https://colips.org/conferences/ialp2019/ialp2019.co
 #### Coreference Resolution
 - <b>Artari, et al. (2021)</b> <i>A Multi-Pass Sieve Coreference Resolution for Indonesian</i>. RANLP <a href="https://aclanthology.org/2021.ranlp-1.10.pdf">[Paper]</a> <a href="https://github.com/valentinakania/indocoref">[Dataset]</a>
 
-### Chatbot
+#### Chatbot
 - <b>Lin, et al. (2021)</b> <i>XPersona: Evaluating Multilingual Personalized Chatbot</i>. NLP4ConvAI <a href="https://aclanthology.org/2021.nlp4convai-1.10.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlg">[Benchmark]</a> <a href="https://github.com/HLTCHKUST/Xpersona">[Dataset]</a>
 
 #### Question Answering
@@ -59,7 +65,7 @@ Language Processing <a href="https://colips.org/conferences/ialp2019/ialp2019.co
 on Asian Language Processing <a href="https://arxiv.org/pdf/1810.05334.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlg">[Benchmark]</a> <a href="https://github.com/kata-ai/indosum">[Dataset]</a>
 - <b>Koto, et al. (2020)</b> <i>A Large-scale Indonesian Dataset for Text Summarization</i>. AACL <a href="https://aclanthology.org/2020.aacl-main.60.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlg">[Benchmark]</a> <a href="https://github.com/fajri91/sum_liputan6">[Dataset]</a>
 
-#### Keyphrases Extraction 
+#### Keyphrase Extraction 
 - <b>Mahfuzh, et al. (2019)</b> <i>Improving Joint Layer RNN based Keyphrase Extraction by Using Syntactical Features</i>. International Conference of Advanced Informatics: Concepts, Theory and Applications <a href="https://arxiv.org/pdf/2009.07119.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlu">[Benchmark]</a>
 
 #### Natural Language Inference
@@ -72,9 +78,13 @@ on Computational Linguistics and Intelligent Text Processing <a href="http://www
 #### Emotion Classification
 - <b>Saputri, et al. (2018)</b> <i>Emotion Classification on Indonesian Twitter Dataset</i>. International Conference on Asian Language Processing <a href="https://ieeexplore.ieee.org/document/8629262">[Paper]</a> <a href="https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset">[Dataset]</a>
 
-### Position / Survey
-- <b>Aji, et al. (2022)</b> <i>One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia</i>. ACL <a href="https://aclanthology.org/2022.acl-long.500.pdf">[Paper]</a>
+#### Stance Detection
 
+#### Hate Speech Detection
+
+#### Clickbait Detection
+
+#### Style Transfer
 
 ## 🧪 Collaborative Project
 IndoNLP is collecting new datasets at https://github.com/IndoNLP/nusantara-datasets. They will open the submission starting June 11, 2022. Check the guidelines to find out how to contribute.
