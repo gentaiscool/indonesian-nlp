@@ -82,12 +82,15 @@ on Computational Linguistics and Intelligent Text Processing <a href="http://www
 - <b>Saputri, et al. (2018)</b> <i>Emotion Classification on Indonesian Twitter Dataset</i>. International Conference on Asian Language Processing <a href="https://ieeexplore.ieee.org/document/8629262">[Paper]</a> <a href="https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset">[Dataset]</a>
 
 #### Stance Detection
+- <b>Jannati, et al. (2018)</b> <i>Stance Classification Towards Political Figures on Blog Writing</i>. International Conference on Asian Language Processing <a href="https://ieeexplore.ieee.org/document/8629144">[Paper]</a> <a href="https://github.com/reneje/id_stance_dataset_article-Stance-Classification-Towards-Political-Figures-on-Blog-Writing">[Dataset]</a>
 
 #### Hate Speech Detection
 
 #### Clickbait Detection
+- <b>Andika William and Yunita Sari (2020)</b> <i>CLICK-ID: A Novel Dataset for Indonesian Clickbait Headlines</i> <a href="https://www.sciencedirect.com/science/article/pii/S2352340920311252?via%3Dihub">[Paper]</a> <a href="https://data.mendeley.com/datasets/k42j7x2kpn/1">[Dataset]</a>
 
 #### Style Transfer
+- <b>Wibowo, et al. (2020)</b> <i>Semi-Supervised Low-Resource Style Transfer of Indonesian Informal to Formal Language with Iterative Forward-Translation</i>. International Conference on Asian Language Processing <a href="https://colips.org/conferences/ialp2020/proceedings/papers/IALP2020_P89.pdf">[Paper]</a> <a href="https://github.com/haryoa/stif-indonesia">[Dataset]</a>
 
 ## 🧪 Collaborative Project
 IndoNLP is collecting new datasets at https://github.com/IndoNLP/nusantara-datasets. They will open the submission starting June 11, 2022. Check the guidelines to find out how to contribute.
