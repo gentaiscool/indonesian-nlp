@@ -30,7 +30,7 @@ Named Entity Tagger</i>. International Conference on Asian Language Processing  
 - <b>Devin Hoesen and Ayu Purwarianti (2018)</b> <i>Investigating Bi-LSTM and CRF with POS Tag Embedding for Indonesian
 Named Entity Tagger</i>. International Conference on Asian Language Processing <a href="https://arxiv.org/ftp/arxiv/papers/2009/2009.05687.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlu">[Dataset]</a>
 - <b>Muhammad Fachri (2014)</b> <i>Named Entity Recognition for Indonesian Text using Hidden Markov Model</i>. Undergraduate Thesis <a href="http://etd.repository.ugm.ac.id/penelitian/detail/150411">[Paper]</a> <a href="https://github.com/yusufsyaifudin/indonesia-ner">[Dataset]</a>
-- <b>Alfina, et al. (2016)</b> <i>DBpedia Entities Expansion in Automatically Building Dataset for Indonesian NER</i>. Undergraduate Thesis <a href="https://ieeexplore.ieee.org/abstract/document/7872784">[Paper]</a> <a href="https://github.com/ialfina/ner-dataset-modified-dee">[Dataset]</a>
+- <b>Alfina, et al. (2016)</b> <i>DBpedia Entities Expansion in Automatically Building Dataset for Indonesian NER</i>. International Conference on Advanced Computer Science and Information Systems <a href="https://ieeexplore.ieee.org/abstract/document/7872784">[Paper]</a> <a href="https://github.com/ialfina/ner-dataset-modified-dee">[Dataset]</a>
 
 #### Emotion Classification
 - <b>Saputri, et al. (2018)</b> <i>Emotion Classification on Indonesian Twitter Dataset</i>. International Conference on Asian Language Processing <a href="https://ieeexplore.ieee.org/document/8629262">[Paper]</a> <a href="https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset">[Dataset]</a>
