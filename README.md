@@ -13,4 +13,4 @@ The list will be updated over the time. You are welcome to send a pull request f
 - <b>Wilie, et al. (2020)</b> <i>IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding</i>. AACL <a href="https://aclanthology.org/2020.aacl-main.85.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlu">[Dataset]</a> <a href="https://huggingface.co/indobenchmark">[Huggingface Models]</a>
 
 ### Position / Survey
-
+- <b>Aji, et al. (2022)</b> <i>One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia</i>. ACL <a href="https://aclanthology.org/2022.acl-long.500.pdf">[Paper]</a>
