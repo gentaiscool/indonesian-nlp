@@ -9,7 +9,6 @@ The list will be updated over time. You are welcome to send a pull request to up
 ### Datasets and Pretrained Models
 #### Public Benchmark
 - <b>Cahyawijaya, et al. (2021)</b> <i>IndoNLG: Benchmark and Resources for Evaluating Indonesian Natural Language Generation</i>. EMNLP <a href="https://aclanthology.org/2021.emnlp-main.699.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlg">[Benchmark]</a> <a href="https://huggingface.co/indobenchmark">[Huggingface Models]</a>
-- <b>Mahendra, et al. (2021)</b> <i>IndoNLI: A Natural Language Inference Dataset for Indonesian</i>. EMNLP <a href="https://aclanthology.org/2021.emnlp-main.821.pdf">[Paper]</a> <a href="https://github.com/ir-nlp-csui/indonli">[Benchmark]</a>
 - <b>Wibowo, et al. (2021)</b> <i>IndoCollex: A Testbed for Morphological Transformation of Indonesian Colloquial Words</i>. ACL Findings <a href="https://aclanthology.org/2021.findings-acl.280.pdf">[Paper]</a> <a href="https://github.com/haryoa/indo-collex">[Benchmark]</a>
 - <b>Koto, et al. (2020)</b> <i>IndoLEM and IndoBERT: A benchmark dataset and pre-trained language model for Indonesian NLP</i>. COLING <a href="https://aclanthology.org/2020.coling-main.66.pdf">[Paper]</a> <a href="https://indolem.github.io/">[Benchmark]</a>
 - <b>Fajri Koto, and Ikhwan Koto (2020)</b> <i>Towards Computational Linguistics in Minangkabau Language: Studies on Sentiment Analysis and Machine Translation</i>. PACLIC <a href="https://aclanthology.org/2020.paclic-1.17.pdf">[Paper]</a> <a href="https://github.com/fajri91/minangNLP">[Benchmark]</a>
@@ -57,12 +56,18 @@ Language Processing <a href="https://colips.org/conferences/ialp2019/ialp2019.co
 
 #### Summarization
 - <b>Kemal Kurniawan and Samuel Louvan (2018)</b> <i>A New Benchmark Dataset for Indonesian Text Summarization</i>. International Conference
-on Asian Language Processing <a href="https://arxiv.org/pdf/1810.05334.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlg">[Benchmark]</a> <a href="https://github.com/kata-ai/indosum">[Original Dataset]</a>
-- <b>Koto, et al. (2020)</b> <i>A Large-scale Indonesian Dataset for Text Summarization</i>. AACL <a href="https://aclanthology.org/2020.aacl-main.60.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlg">[Benchmark]</a> <a href="https://github.com/fajri91/sum_liputan6">[Original Dataset]</a>
+on Asian Language Processing <a href="https://arxiv.org/pdf/1810.05334.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlg">[Benchmark]</a> <a href="https://github.com/kata-ai/indosum">[Dataset]</a>
+- <b>Koto, et al. (2020)</b> <i>A Large-scale Indonesian Dataset for Text Summarization</i>. AACL <a href="https://aclanthology.org/2020.aacl-main.60.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlg">[Benchmark]</a> <a href="https://github.com/fajri91/sum_liputan6">[Dataset]</a>
 
 #### Keyphrases Extraction 
+- <b>Mahfuzh, et al. (2019)</b> <i>Improving Joint Layer RNN based Keyphrase Extraction by Using Syntactical Features</i>. International Conference of Advanced Informatics: Concepts, Theory and Applications <a href="https://arxiv.org/pdf/2009.07119.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlu">[Benchmark]</a>
 
 #### Natural Language Inference
+- <b>Mahendra, et al. (2021)</b> <i>IndoNLI: A Natural Language Inference Dataset for Indonesian</i>. EMNLP <a href="https://aclanthology.org/2021.emnlp-main.821.pdf">[Paper]</a> <a href="https://github.com/ir-nlp-csui/indonli">[Dataset]</a>
+- <b>Ken Nabila Setya and Rahmad Mahendra (2018)</b> <i>Semi-supervised Textual Entailment on Indonesian Wikipedia Data</i>. International Conference
+on Computational Linguistics and Intelligent Text Processing <a href="http://www.cicling.org/2018/intranet/pre-print/papers/paper_55.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlu">[Benchmark]</a>
+
+#### Sentiment Analysis
 
 #### Emotion Classification
 - <b>Saputri, et al. (2018)</b> <i>Emotion Classification on Indonesian Twitter Dataset</i>. International Conference on Asian Language Processing <a href="https://ieeexplore.ieee.org/document/8629262">[Paper]</a> <a href="https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset">[Dataset]</a>
