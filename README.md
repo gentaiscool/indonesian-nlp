@@ -18,6 +18,9 @@ The list will be updated over time. You are welcome to send a pull request to up
 #### Language-Specific Model
 - <b>Wongso, et al. (2022)</b> <i>Pre-Trained Transformer-Based Language Models for Sundanese</i>. Journal of Big Data <a href="https://link.springer.com/content/pdf/10.1186/s40537-022-00590-7.pdf">[Paper]</a> 
 
+#### Datasets
+- <b>Saputri, et al. (2018)</b> <i>Emotion Classification on Indonesian Twitter Dataset</i>. International Conference on Asian Language Processing <a href="https://www.researchgate.net/profile/Rahmad-Mahendra/publication/330674171_Emotion_Classification_on_Indonesian_Twitter_Dataset/links/5c4ea13a458515a4c745850d/Emotion-Classification-on-Indonesian-Twitter-Dataset.pdf">[Paper]</a> <a href="https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset">[Dataset]</a>
+
 ### Position / Survey
 - <b>Aji, et al. (2022)</b> <i>One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia</i>. ACL <a href="https://aclanthology.org/2022.acl-long.500.pdf">[Paper]</a>
 
