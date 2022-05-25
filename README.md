@@ -73,10 +73,12 @@ on Asian Language Processing <a href="https://arxiv.org/pdf/1810.05334.pdf">[Pap
 
 #### Natural Language Inference
 - <b>Mahendra, et al. (2021)</b> <i>IndoNLI: A Natural Language Inference Dataset for Indonesian</i>. EMNLP <a href="https://aclanthology.org/2021.emnlp-main.821.pdf">[Paper]</a> <a href="https://github.com/ir-nlp-csui/indonli">[Dataset]</a>
-- <b>Ken Nabila Setya and Rahmad Mahendra (2018)</b> <i>Semi-supervised Textual Entailment on Indonesian Wikipedia Data</i>. International Conference
-on Computational Linguistics and Intelligent Text Processing <a href="http://www.cicling.org/2018/intranet/pre-print/papers/paper_55.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlu">[Benchmark]</a>
+- <b>Ken Nabila Setya and Rahmad Mahendra (2018)</b> <i>Semi-supervised Textual Entailment on Indonesian Wikipedia Data</i>. International Conference on Computational Linguistics and Intelligent Text Processing <a href="http://www.cicling.org/2018/intranet/pre-print/papers/paper_55.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlu">[Benchmark]</a>
 
 #### Sentiment Analysis
+- <b>Ayu Purwarianti and Ida Ayu Putu Ari Crisdayanti (2019)</b> <i>Improving Bi-LSTM Performance for Indonesian Sentiment Analysis Using Paragraph Vector</i>. International Conference of Advanced Informatics: Concepts, Theory and Applications <a href="https://ieeexplore.ieee.org/abstract/document/8904199">[Paper]</a> <a href="https://github.com/IndoNLP/indonlu">[Benchmark]</a>
+- <b>Azhar, et al. (2019)</b> <i>Multi-label Aspect Categorization with Convolutional Neural Networks and Extreme Gradient Boosting</i>. International Conference on Electrical Engineering and Informatics <a href="https://ieeexplore.ieee.org/document/8988898">[Paper]</a> <a href="https://github.com/IndoNLP/indonlu">[Benchmark]</a>
+- <b>Ilmania, et al. (2018)</b> <i>Aspect Detection and Sentiment Classification Using Deep Neural Network for Indonesian Aspect-Based Sentiment Analysis</i>. International Conference on Asian Language Processing <a href="https://ieeexplore.ieee.org/document/8629181">[Paper]</a> <a href="https://github.com/IndoNLP/indonlu">[Benchmark]</a>
 
 #### Emotion Classification
 - <b>Saputri, et al. (2018)</b> <i>Emotion Classification on Indonesian Twitter Dataset</i>. International Conference on Asian Language Processing <a href="https://ieeexplore.ieee.org/document/8629262">[Paper]</a> <a href="https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset">[Dataset]</a>
@@ -85,9 +87,12 @@ on Computational Linguistics and Intelligent Text Processing <a href="http://www
 - <b>Jannati, et al. (2018)</b> <i>Stance Classification Towards Political Figures on Blog Writing</i>. International Conference on Asian Language Processing <a href="https://ieeexplore.ieee.org/document/8629144">[Paper]</a> <a href="https://github.com/reneje/id_stance_dataset_article-Stance-Classification-Towards-Political-Figures-on-Blog-Writing">[Dataset]</a>
 
 #### Hate Speech Detection
+- <b>Alfina, et al. (2017)</b> <i>Hate Speech Detection in the Indonesian Language: A Dataset and Preliminary Study</i>. International Conference on Advanced Computer Science and Information Systems <a href="Hate speech detection in the Indonesian language: A dataset and preliminary">[Paper]</a> <a href="https://github.com/ialfina/id-hatespeech-detection">[Dataset]</a>
+- <b>Muhammad Okky Ibrohim and Indra Budi (2018)</b> <i>A Dataset and Preliminaries Study for Abusive Language Detection in Indonesian Social Media</i>. International Conference on Computer Science and Computational Intelligence <a href="https://www.sciencedirect.com/science/article/pii/S1877050918314583?via%3Dihub">[Paper]</a> <a href="https://github.com/haryoa/stif-indonesia">[Dataset]</a>
+- <b>Muhammad Okky Ibrohim and Indra Budi (2019)</b> <i>Multi-label Hate Speech and Abusive Language Detection in Indonesian Twitter</i>. Workshop on Abusive Language Online <a href="https://aclanthology.org/W19-3506.pdf">[Paper]</a> <a href="[https://github.com/haryoa/stif-indonesia](https://github.com/okkyibrohim/id-abusive-language-detection)">[Dataset]</a>
 
 #### Clickbait Detection
-- <b>Andika William and Yunita Sari (2020)</b> <i>CLICK-ID: A Novel Dataset for Indonesian Clickbait Headlines</i> <a href="https://www.sciencedirect.com/science/article/pii/S2352340920311252?via%3Dihub">[Paper]</a> <a href="https://data.mendeley.com/datasets/k42j7x2kpn/1">[Dataset]</a>
+- <b>Andika William and Yunita Sari (2020)</b> <i>CLICK-ID: A Novel Dataset for Indonesian Clickbait Headlines</i>. Data in Brief <a href="https://www.sciencedirect.com/science/article/pii/S2352340920311252?via%3Dihub">[Paper]</a> <a href="https://data.mendeley.com/datasets/k42j7x2kpn/1">[Dataset]</a>
 
 #### Style Transfer
 - <b>Wibowo, et al. (2020)</b> <i>Semi-Supervised Low-Resource Style Transfer of Indonesian Informal to Formal Language with Iterative Forward-Translation</i>. International Conference on Asian Language Processing <a href="https://colips.org/conferences/ialp2020/proceedings/papers/IALP2020_P89.pdf">[Paper]</a> <a href="https://github.com/haryoa/stif-indonesia">[Dataset]</a>
