@@ -36,7 +36,27 @@ Named Entity Tagger</i>. International Conference on Asian Language Processing <
 - <b>Mahendra, et al. (2018)</b> <i>Cross-Lingual and Supervised Learning Approach for Indonesian Word Sense Disambiguation Task</i>. Global Wordnet Conference <a href="https://aclanthology.org/2018.gwc-1.28.pdf">[Paper]</a> <a href="https://github.com/rmahendra/Indonesian-WSD">[Dataset]</a>
 
 #### Constituency Parsing
-- <b>David Moeljadi (2017)</b> <i>Building JATI: A Treebank for Indonesian</i>. Global Wordnet Conference <a href="http://compling.hss.ntu.edu.sg/who/david/slides/ConCorps2017_davidmoeljadi_slides.pdf">[Paper]</a> <a href="https://github.com/davidmoeljadi/INDRA/tree/master/tsdb/gold/jati_edited">[Dataset]</a>
+- <b>Arwidarasti, et al. (2019)</b> <i>Converting an Indonesian Constituency Treebank to the Penn Treebank Format</i>. International Conference on Asian
+Language Processing <a href="https://colips.org/conferences/ialp2019/ialp2019.com/files/papers/IALP2019_086.pdf">[Paper]</a> <a href="https://github.com/ialfina/kethu">[Dataset]</a>
+- <b>Moeljadi, et al. (2018)</b> <i>Building Cendana: a Treebank for Informal Indonesian</i>. Global Wordnet Conference <a href="http://jaslli.org/files/proceedings/18_paclic33_postconf.pdf">[Paper]</a> <a href="">[Dataset]</a>
+- <b>David Moeljadi (2017)</b> <i>Building JATI: A Treebank for Indonesian</i>. Global Wordnet Conference <a href="http://compling.hss.ntu.edu.sg/who/david/slides/ConCorps2017_davidmoeljadi_slides.pdf">[Paper]</a> <a href="https://github.com/davidmoeljadi/INDRA/tree/master/tsdb/gold/Cendana">[Dataset]</a>
+  
+#### Dependency Parsing
+- <b>Zeman, et al. (2018)</b> <i>CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies</i>. CoNLL Shared Task <a href="https://aclanthology.org/K18-2001v2.pdf">[Paper]</a> <a href="https://github.com/UniversalDependencies/UD_Indonesian-PUD">[Dataset]</a>
+- <b>McDonald, et al. (2013)</b> <i>Universal Dependency Annotation for Multilingual Parsing</i>. ACL <a href="https://aclanthology.org/P13-2017.pdf">[Paper]</a> <a href="https://github.com/UniversalDependencies/UD_Indonesian-GSD">[Dataset]</a>
+
+#### Coreference Resolution
+- <b>Artari, et al. (2021)</b> <i>A Multi-Pass Sieve Coreference Resolution for Indonesian</i>. RANLP <a href="https://aclanthology.org/2021.ranlp-1.10.pdf">[Paper]</a> <a href="https://github.com/valentinakania/indocoref">[Dataset]</a>
+
+#### Question Answering
+- <b>Clark, et al. (2020)</b> <i>TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages</i>. TACL <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00317/96451">[Paper]</a> <a href="https://github.com/google-research-datasets/tydiqa">[Dataset]</a>
+- <b>Purwarianti, et al. (2007)</b> <i>A Machine Learning Approach for Indonesian Question Answering System</i>. RANLP <a href="https://www.researchgate.net/profile/Ayu-Purwarianti/publication/221173808_A_machine_learning_approach_for_indonesian_question_answering_system/links/547404bd0cf245eb436dbcdc/A-machine-learning-approach-for-indonesian-question-answering-system.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlu">[Benchmark]</a>
+
+#### Summarization
+
+#### Keyphrases Extraction 
+
+#### Natural Language Inference
 
 #### Emotion Classification
 - <b>Saputri, et al. (2018)</b> <i>Emotion Classification on Indonesian Twitter Dataset</i>. International Conference on Asian Language Processing <a href="https://ieeexplore.ieee.org/document/8629262">[Paper]</a> <a href="https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset">[Dataset]</a>
