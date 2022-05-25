@@ -4,7 +4,7 @@ The list will be updated over time. You are welcome to send a pull request to up
 
 📌 If you are working on any work related to Indonesian or any local Indonesian languages, don't hesitate to contact me or send a pull request! 
 
-## Book
+## 📔 Books
 - <b>Jan Wira Gotama Putra (2019)</b> <i>One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia</i>. <a href="https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf">[Book]</a>
 
 ## 📑 Research Papers
