@@ -1,11 +1,14 @@
 # Indonesian Research Resources
-This is the list of tutorials, workshops, books, papers, and resources on computational linguistic approaches to research in Indonesian languages. 
+This is the list of tutorials, workshops, books, talks, papers, and resources on computational linguistic approaches to research in Indonesian languages. 
 The list will be updated over time. You are welcome to send a pull request to update the list and be one of the contributors! 🚀
 
 📌 If you are working on any work related to Indonesian or any local Indonesian languages, don't hesitate to contact me or send a pull request! 
 
 ## 📔 Books
 - <b>Jan Wira Gotama Putra (2019)</b> <i>Pengenalan Konsep Pembelajaran Mesin dan Deep Learning</i>. <a href="https://wiragotama.github.io/resources/ebook/intro-to-ml-secured.pdf">[Book]</a>
+
+## 🔉 Talks
+- Bedah Paper Series by INACL <a href="https://www.youtube.com/channel/UC4O5LY9sYN25M1oBTsqGSIw/videos">[Video]</a>
 
 ## 📑 Research Papers
 
