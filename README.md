@@ -4,9 +4,6 @@ The list will be updated over time. You are welcome to send a pull request to up
 
 📌 If you are working on any work related to Indonesian or any local Indonesian languages, don't hesitate to contact me or send a pull request! 
 
-## 🧪 Collaborative Project
-IndoNLP is collecting new datasets at https://github.com/IndoNLP/nusantara-datasets. They will open the submission starting June 11, 2022. Check the guidelines to find out how to contribute.
-
 ## 📑 Research Papers
 
 ### Datasets / Benchmarks
@@ -18,3 +15,6 @@ IndoNLP is collecting new datasets at https://github.com/IndoNLP/nusantara-datas
 
 ### Position / Survey
 - <b>Aji, et al. (2022)</b> <i>One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia</i>. ACL <a href="https://aclanthology.org/2022.acl-long.500.pdf">[Paper]</a>
+
+## 🧪 Collaborative Project
+IndoNLP is collecting new datasets at https://github.com/IndoNLP/nusantara-datasets. They will open the submission starting June 11, 2022. Check the guidelines to find out how to contribute.
