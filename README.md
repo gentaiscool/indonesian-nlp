@@ -98,4 +98,4 @@ on Asian Language Processing <a href="https://arxiv.org/pdf/1810.05334.pdf">[Pap
 - <b>Wibowo, et al. (2020)</b> <i>Semi-Supervised Low-Resource Style Transfer of Indonesian Informal to Formal Language with Iterative Forward-Translation</i>. International Conference on Asian Language Processing <a href="https://colips.org/conferences/ialp2020/proceedings/papers/IALP2020_P89.pdf">[Paper]</a> <a href="https://github.com/haryoa/stif-indonesia">[Dataset]</a>
 
 ## 🧪 Collaborative Project
-IndoNLP is collecting new datasets at https://github.com/IndoNLP/nusantara-datasets. They will open the submission starting June 11, 2022. Check the guidelines to find out how to contribute.
+IndoNLP is collecting new datasets at https://github.com/IndoNLP/nusantara-datasets. They will open the submission starting June 2022. Check the guidelines to find out how to contribute.
