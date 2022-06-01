@@ -17,6 +17,7 @@ The list will be updated over time. You are welcome to send a pull request to up
 
 ### Datasets and Pretrained Models
 #### Public Benchmark
+- <b>Winata, et al. (2022)</b> <i>NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Languages</i>. Preprint <a href="https://arxiv.org/pdf/2205.15960.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/nusax">[Benchmark]</a>
 - <b>Cahyawijaya, et al. (2021)</b> <i>IndoNLG: Benchmark and Resources for Evaluating Indonesian Natural Language Generation</i>. EMNLP <a href="https://aclanthology.org/2021.emnlp-main.699.pdf">[Paper]</a> <a href="https://github.com/IndoNLP/indonlg">[Benchmark]</a> <a href="https://huggingface.co/indobenchmark">[Huggingface Models]</a>
 - <b>Wibowo, et al. (2021)</b> <i>IndoCollex: A Testbed for Morphological Transformation of Indonesian Colloquial Words</i>. ACL Findings <a href="https://aclanthology.org/2021.findings-acl.280.pdf">[Paper]</a> <a href="https://github.com/haryoa/indo-collex">[Benchmark]</a>
 - <b>Koto, et al. (2020)</b> <i>IndoLEM and IndoBERT: A benchmark dataset and pre-trained language model for Indonesian NLP</i>. COLING <a href="https://aclanthology.org/2020.coling-main.66.pdf">[Paper]</a> <a href="https://indolem.github.io/">[Benchmark]</a>
